@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41a535b9-6c3f-4b33-a99b-14a0c41d9028" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Meteo Chisinau.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Meteo Chisinau.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/Meteo Chisinau.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/warn-Meteo Chisinau.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Meteo Chisinau/xref-Meteo Chisinau.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/Meteo Chisinau.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather-app.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meteo_Chisinau.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Meteo Chisinau.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Meteo Chisinau.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meteo Chisinau.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Meteo Chisinau.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +27,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MigunovIvan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MigunovIvan/Meteo_Chisinau.git&quot;,
+    &quot;accountId&quot;: &quot;dd85893e-412f-451f-8356-7efac0bf25e1&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2li1CElGMhPGvG0ot92GDkCxDj5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -55,8 +59,20 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.Meteo Chisinau.executor&quot;: &quot;Run&quot;,
     &quot;Python.Meteo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Meteo_Chisinau.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
@@ -66,7 +82,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Meteo Chisinau" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Meteo_Chisinau" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Meteo Chisinau" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,11 +91,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (Meteo_Chisinau)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\it000105\PycharmProjects\Meteo_Chisinau" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Python Projects\Meteo\Meteo Chisinau.py" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\it000105\PycharmProjects\Meteo_Chisinau\Meteo_Chisinau.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +111,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -106,6 +125,9 @@
       <updated>1725647955827</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
